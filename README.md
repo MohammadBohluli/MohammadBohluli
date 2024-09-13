@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nest.js, Design pattern**
 
-- 👯 I’m looking to collaborate on **backend project**
+- 👯 I’m looking to collaborate on **backend project in Nodejs ecosystem**
 
 - 📝 I regularly write articles on [https://virgool.io/@MohammadBohluli](https://virgool.io/@MohammadBohluli)
 
