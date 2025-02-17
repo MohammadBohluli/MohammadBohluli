@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **cms-blog-backend**
 
-- 🌱 I’m currently learning **Nest.js, Design pattern**
+- 🌱 I’m currently learning **System Design, advanced backend conecpt**
 
-- 👯 I’m looking to collaborate on **backend project in Nodejs ecosystem**
+- 👯 I’m looking to collaborate on **backend project in Golang ecosystem**
 
 - 📝 I regularly write articles on [https://virgool.io/@MohammadBohluli](https://virgool.io/@MohammadBohluli)
 
-- 💬 Ask me about **javascript, typescript, backend**
+- 💬 Ask me about **Golang, backend**
 
 - 📫 How to reach me **mohammad.bohluli.8789@gmail.com**
 
